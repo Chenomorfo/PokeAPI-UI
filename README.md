@@ -1,38 +1,21 @@
-# create-svelte
+# POKEAPI UI
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a Project made in Svelte, where use the PokeApi with a UI, more graphical and beauty UI, builded with the PokeAPI V2.
 
-## Creating a project
+<img src="https://i.pinimg.com/originals/e5/1d/4f/e51d4f7b1f0ca6e2383c47c628247196.jpg" alt="PikaCoder"/>
 
-If you're seeing this, you've probably already done this step. Congrats!
+## How to Set Up
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. Clone this repository.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+       git clone https://github.com/Chenomorfo/PokeAPI-UI
 
-## Developing
+2. Install all dependencies
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+        npm run install
 
-```bash
-npm run dev
+3. Run the project
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+        npm run dev
 
-## Building
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
